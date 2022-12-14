@@ -28,7 +28,7 @@ export const products = [
     id: 4,
     name: 'Phone 4',
     price: 299,
-    description: 'fewfwef',
+    description: 'Este el telefono numero 4',
   },
 ];
 
